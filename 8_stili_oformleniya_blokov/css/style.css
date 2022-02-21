@@ -34,48 +34,54 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 
 .example-block {
-    padding: 10px 20px 30px 5px;
-    /*
-    padding: 10px 20px 30px;
-    padding: 10px 20px;
-    padding: 10%;
-    
-    margin: 10% -10px;
-    margin: 10%;
-    
-    width: 500px; 
-    max-width: 600px;
-    min-width: 300px;
-    
-    height: 200px;
-    min-height: 200px;
-    height: 200px;
-    */
-    /*
-    overflow: visible;
-    overflow: hidden;
-    overflow: scroll;
-    overflow: auto;
-    max-height: 100px;
-    */
-    display: none;
-    display: inline;
-    display: inline-block;
-    display: block;
+  /*
+   border: 10px solid #000;
+   border: 10px dashed #000;
+   */
 
-    border: 1px solid #000;
+   /*
+   border-top: 10px solid #000;
+   border-left: none;
+  */
+  
+  /*
+  border: 2px solid #000;
+  border-radius: 10px 10px 10px 10px;
+  border-radius: 30px;
+  */
+  
+  /*
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  */
+
+  /*
+  outline: 10px solid #000;
+  margin: 20px;
+  */
+  /*
+  box-shadow: 5px 5px 20px #000;
+  padding: 15px;
+  border-radius: 30px;
+  */
+
+  /*
+  opacity: 0.5;
+  */
+  /*
+  visibility: hidden;
+  */
+  font-size: 50px;
+  margin: 20px;
 }
 
 .example-string {
-    display: inline-block;
-    padding: 10px 20px 30px;
-    border: 1px solid #000;
+  border: 1px solid #000;
+  font-size: 50px;
 }
 
 .example-image {
-  /*width: 100px;*/
-  width: 100%s; 
-  max-width: 500px;
-  min-width: 300px; 
-  height: 100px;
-} moodle.oigonuu.com sharip_raimzhan +Oigonuu2020
+  border: 10px solid #000;
+}
