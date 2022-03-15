@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+@import "nullstyle.scss";
+
+.textoriginal {
+	font-size: 30px;
+	line-height: 35px;
+	p { 
+		margin: 0 0 30px 0;
+	}
+}
+
+.text {
+	font-family: "PT Sans";
+	//font-style: italic;
+	font-style: bold;
+	font-size: 30px;
+	line-height: 35px;
+	p { 
+		margin: 0 0 30px 0;
+	}
+}
